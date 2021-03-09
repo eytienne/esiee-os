@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "nl_types.h": "c",
+        "unistd.h": "c",
+        "signal.h": "c"
+    }
+}
