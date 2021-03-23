@@ -2,6 +2,11 @@
     "files.associations": {
         "nl_types.h": "c",
         "unistd.h": "c",
-        "signal.h": "c"
+        "signal.h": "c",
+        "stdio.h": "c",
+        "assert.h": "c",
+        "write.C": "cpp",
+        "types.h": "c",
+        "shm.h": "c"
     }
 }
